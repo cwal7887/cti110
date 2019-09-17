@@ -2,7 +2,7 @@
 #9/12/2019
 #Sales Prediction P2T1
 #Calculate profit of total sales
-
+#
 #input projected sales
 totalsales = float(input("Enter the projected sales: $"))
 
